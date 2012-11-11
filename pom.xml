@@ -30,8 +30,8 @@
 	<dependencies>
 <!--
 		<dependency>
-			<groupId>xxx</groupId>
-			<artifactId>xxx</artifactId>
+			<groupId>org.dummy</groupId>
+			<artifactId>dummy</artifactId>
 			<version>x.x.x</version>
 		</dependency>
 -->
@@ -53,7 +53,7 @@
 					</descriptorRefs>
 					<archive>
 						<manifest>
-							<mainClass></mainClass>
+							<mainClass>xxx.SomeMainClass</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
