@@ -1,8 +1,9 @@
 This is README for mvn-scaffold.
 
-1. Locate src in ./src
+1. Locate src in ./src/main/java
 
-Source flies located within ./src will be build.
+Source flies located in ./src/main/java will be build.
+Test codes should be located in ./test.
 
 2. Locate jar in ./repo
 
